@@ -43,7 +43,7 @@ body{
 }
 .side{
    position:relative;
-  width:20%;
+  width:21%;
   background:rgba(0,0,0,0.8);
   border:1px solid grey; 
   border-radius: 8px;
